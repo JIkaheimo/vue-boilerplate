@@ -1,5 +1,5 @@
 {
-  "name": "vueschool-forum",
+  "name": "vue-boilerplate",
   "version": "0.0.0",
   "scripts": {
     "serve": "vite preview",
